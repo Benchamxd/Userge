@@ -7,5 +7,5 @@
 # Please see < https://github.com/UsergeTeam/Userge/blob/master/LICENSE >
 #
 # All rights reserved.
-
+pip install dotenv
 python3 tools/genStrSession.py
